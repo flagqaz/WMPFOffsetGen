@@ -1,0 +1,9 @@
+{
+  "name": "wmpf-offsetgen-gui",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WMPF 偏移量图形化生成工具",
+  "scripts": {
+    "build": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\csc.exe /nologo /target:winexe /out:dist\\WMPFOffsetGen.GUI.exe /r:System.Windows.Forms.dll /r:System.Drawing.dll src\\WmpfOffsetGenGui.cs"
+  }
+}
