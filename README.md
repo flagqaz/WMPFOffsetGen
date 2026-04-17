@@ -1,6 +1,6 @@
 # WMPFOffsetGen.GUI
 
-一个图形化工具，用于从微信小程序最新WMPF版本自动生成addresses.<版本号>.json文件：
+一个图形化工具，用于从微信小程序最新WMPF版本自动生成addresses.<版本号>.json文件保证WMPFDebugger正常使用：
 
 - `addresses.<版本号>.json`
 
@@ -28,4 +28,4 @@ build-gui.bat
 2. 输入或拖拽WMPF目录 `C:\Users\%当前用户%\AppData\Roaming\Tencent\xwechat\xplugin\Plugins\RadiumWMP\`
 3. 点击“生成 JSON”
 4. 在工具运行目录获得 `addresses.<版本号>.json`
-5. 上传addresses.<版本号>.json文件到WMPFDebugger-main\frida\config目录下
+5. 上传addresses.<版本号>.json文件到WMPFDebugger\frida\config目录下
