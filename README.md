@@ -1,6 +1,6 @@
 # WMPFOffsetGen.GUI
 
-一个图形化工具，用于从微信小程序运行时文件 `flue.dll` 自动生成：
+一个图形化工具，用于从微信小程序最新WMPF版本自动生成addresses.<版本号>.json文件：
 
 - `addresses.<版本号>.json`
 
