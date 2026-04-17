@@ -1,4 +1,4 @@
-<img width="723" height="534" alt="Snipaste_2026-04-17_17-49-30" src="https://github.com/user-attachments/assets/f03a7007-0d86-447d-a6a3-943798387df3" /># WMPFOffsetGen.GUI
+# WMPFOffsetGen.GUI
 
 一个图形化工具，用于从微信小程序最新WMPF版本计算基地址偏移量自动生成 addresses.<版本号>.json文件保证WMPFDebugger正常使用：
 
@@ -28,6 +28,7 @@ build-gui.bat
 2. 输入或拖拽WMPF目录 `C:\Users\%当前用户%\AppData\Roaming\Tencent\xwechat\xplugin\Plugins\RadiumWMP\`
 3. 点击“生成 JSON”
 <img width="723" height="534" alt="1" src="https://github.com/user-attachments/assets/dfd74d6d-5e1c-4e09-8fc9-ebc9d6484d32" />
+
 5. 在工具运行目录获得 `addresses.<版本号>.json`
 7. 上传addresses.<版本号>.json文件到WMPFDebugger\frida\config目录下
 <img width="361" height="493" alt="2" src="https://github.com/user-attachments/assets/43ddff42-5c7f-4629-a22f-daf94865b6b6" />
