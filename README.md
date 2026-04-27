@@ -1,5 +1,7 @@
 # WMPFOffsetGen.GUI
 
+感谢大佬的开源 https://github.com/evi0s/WMPFDebugger
+
 一个图形化工具，用于从微信小程序最新WMPF版本计算基地址偏移量自动生成 addresses.<版本号>.json文件保证WMPFDebugger正常使用：
 
 - `addresses.<版本号>.json`
