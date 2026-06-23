@@ -1,0 +1,9 @@
+{
+  "name": "wmpf-offsetgen-gui",
+  "version": "1.1.0",
+  "private": true,
+  "description": "WMPF 偏移量图形化生成工具 v1.1",
+  "scripts": {
+    "build": "build-gui.bat"
+  }
+}
